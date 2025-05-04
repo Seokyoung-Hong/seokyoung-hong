@@ -72,11 +72,10 @@
 ---
 
 ## 📊 GitHub Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seokyoung-Hong&count_private=true&show_icons=true&hide_rank=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seokyoung-Hong&exclude_repo=langgraph-mcp-agents,gpt-bitcoin,gemini_fintuning,Whisper-WebUI,ultralytics,ha-core,addon-example,handson-ml2,SmartThingsPublic,RoboMaster-SDK,hassio-addon-devcontainer,account-share,Seok-s_Photpolio_web)](https://github.com/anuraghazra/github-readme-stats?exclude_repo=langgraph-mcp-agents,gpt-bitcoin,gemini_fintuning,Whisper-WebUI,ultralytics,ha-core,addon-example,handson-ml2,SmartThingsPublic,RoboMaster-SDK,hassio-addon-devcontainer,accout-share)
 
 ---
 
