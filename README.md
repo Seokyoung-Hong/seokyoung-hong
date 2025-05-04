@@ -63,7 +63,7 @@
 | 프로젝트명 | 설명 | 주요 기술 |
 |------------|------|-----------|
 | sio2.kr 웹사이트 | 계좌 정보를 QR 코드로 제공하여, 사용자가 은행 앱에서 직접 송금할 수 있도록 하는 웹서비스 | Django, JavaScript, Nginx, Docker |
-| kakao-chatbot | Kakao Open Builder 기반의 챗봇 연동 프로젝트로, 챗봇 메시지 처리 로직을 Python 라이브러리로 추상화 | FastAPI, Python, Kakao SDK |
+| kakao-chatbot | Kakao Open Builder 기반의 챗봇 연동 프로젝트로, 챗봇 메시지 처리 로직을 Python 라이브러리로 추상화 | Python |
 | 산돌이 프로젝트 | 교내 학식, 빈 강의실, 연락처, 교통정보 등을 통합 제공하는 서비스. MSA 기반으로 분산 구성됨 | FastAPI, SQLite, GCE, Docker, Nginx, Lua, SQLAlchemy |
 
 
