@@ -43,12 +43,12 @@
 ### 🧪 배우는 중인 것
 ![c](https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![c++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🧩 써보기만 한 것
 ![flutter](https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![serverless](https://img.shields.io/badge/serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
 ![yolov5](https://img.shields.io/badge/yolov5-111F68?style=flat-square&logo=yolo&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### 🗃️ ORM 기반 사용 경험이 있는 DB
 ![sqlite](https://img.shields.io/badge/sqlite-003B57?style=flat-square&logo=sqlite&logoColor=white)
@@ -66,8 +66,6 @@
 | kakao-chatbot | Kakao Open Builder 기반의 챗봇 연동 프로젝트로, 챗봇 메시지 처리 로직을 Python 라이브러리로 추상화 | Python |
 | 산돌이 프로젝트 | 교내 학식, 빈 강의실, 연락처, 교통정보 등을 통합 제공하는 서비스. MSA 기반으로 분산 구성됨 | FastAPI, SQLite, GCE, Docker, Nginx, Lua, SQLAlchemy |
 
-
-> 📌 모든 프로젝트는 `MSA 구조`로 분리되어 있으며 `docker-compose` 기반으로 통합 관리됩니다.
 
 ---
 
